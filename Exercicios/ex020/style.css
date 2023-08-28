@@ -1,0 +1,13 @@
+@charset "UTF-8";
+body{
+    background-color: aliceblue;
+}
+main{
+    border-radius: 10px;
+    text-align: center;
+    background-color: aqua;
+    width: 600px;
+    margin: auto;
+    box-shadow:5px 5px 15px rgb(143, 143, 155) ;
+    padding: 15px;
+}
